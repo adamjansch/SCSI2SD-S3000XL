@@ -1,4 +1,4 @@
-# ${1:Project Name}
+# SCSI2SD-S3000XL
 
 Here is the configuration file that was the result of a successful installation of a [codesrc SCSI2SD](http://www.codesrc.com/mediawiki/index.php?title=SCSI2SD) board in my Akai S3000XL sampler. It's set to work with SD cards 2GB and larger (though due to limitations within the S3000XL only 2GB will be useable). Hopefully it may be of use to other users of this cool storage method.
 
