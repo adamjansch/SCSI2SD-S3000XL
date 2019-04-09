@@ -14,4 +14,4 @@ This configuration file assumes you are running default SCSI settings on your S3
 
 All disks are set to run as SCSI-2, with all other options deselected. The scsi2sd-util tool can be used to adjust the settings if needed. __Note:__ hot-swapping of SD cards has not been enabled in this configuration, and I don't know if the S3000XL supports such a feature.
 
-When up and running, head to the S3000XL's Save Mode and select "FORM" (F6) to format your disks; each must be partitioned as there is a maximum limit of 60MB per partition on the S3000XL. Refer to the S3000XL Operations Manual for instructions on this procedure.
+When up and running, head to the S3000XL's Save Mode and select "FORM" (F6) to format your disks; each must be partitioned as there is a maximum limit of 60MB per partition on the S3000XL. Refer to the S3000XL Operations Manual for [instructions](https://archive.org/details/S3000XL_owners_manual/page/n219) on this procedure.
